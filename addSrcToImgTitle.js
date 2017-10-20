@@ -5,4 +5,4 @@ javascript: (function() {
     const src = imagesInPages[key].getAttribute('src');
     imagesInPages[key].setAttribute('title', title + ' ' + src);
   });
-});
+})();
