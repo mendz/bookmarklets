@@ -1,8 +1,9 @@
 # Bookmarklets
 
-- [Bookmarklets](#bookmarklets)
-  - [Convert NIS to Dollar / Euro](#convert-nis-to-dollar-euro)
+
+  - [Convert NIS to Dollar / Euro](#convert-nis-to-dollar--euro)
   - [Adds the image src to the image title](#adds-the-image-src-to-the-image-title)
+  - [Google Timer](#google-timer)
 
 ## Convert NIS to Dollar / Euro
 
@@ -22,8 +23,19 @@ Features:
 
 <!--TODO: Add images to the bullet points  -->
 
+---
+
 ## Adds the image src to the image title
 
 > [addSrcToImgTitle.js](./addSrcToImgTitle.js)
 
 For any image in the current page adding the src URL to its title for convenient dev works.
+
+---
+
+## Google Timer
+
+> [googleTimer.js](./googleTimer.js)
+
+- Open a dialog to insert the amount of time for the timer (30 minutes is the default).
+- Open a new tab to "_Google Search_" and start counting.
