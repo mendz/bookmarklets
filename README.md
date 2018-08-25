@@ -1,9 +1,11 @@
 # Bookmarklets
 
-
+- [Bookmarklets](#bookmarklets)
   - [Convert NIS to Dollar / Euro](#convert-nis-to-dollar--euro)
   - [Adds the image src to the image title](#adds-the-image-src-to-the-image-title)
   - [Google Timer](#google-timer)
+  - [Google Timer - Title](#google-timer---title)
+  - [Decode URL](#decode-url)
 
 ## Convert NIS to Dollar / Euro
 
@@ -39,3 +41,20 @@ For any image in the current page adding the src URL to its title for convenient
 
 - Open a dialog to insert the amount of time for the timer (30 minutes is the default).
 - Open a new tab to "_Google Search_" and start counting.
+
+## Google Timer - Title
+
+> [setGoogleTimerAsTitle.js](./setGoogleTimerAsTitle.js)
+
+Update the tab title with the current time.
+
+<!-- TODO: Try to combine both of them together https://stackoverflow.com/questions/32357312/running-javascript-in-new-window-open -->
+
+---
+
+## Decode URL
+
+> [decodeURL.js](./decodeURL.js)
+
+- Open a dialog to insert a URL to decode (by default is the current tab URL).
+- Copied the decoded URL to the _clipboard_.
