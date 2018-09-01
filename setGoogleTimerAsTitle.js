@@ -7,5 +7,5 @@ javascript: (function() {
       .replace(/([a-z])/g, '$1 ');
     document.title = title;
   });
-  mutationObserver.observe(googleTimerContainer, { childList: true });
+  mutationObserver.observe(googleTimerContainer, { childList: true, attributes: true });
 })();
