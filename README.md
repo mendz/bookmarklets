@@ -2,7 +2,7 @@
 
 - [Bookmarklets](#bookmarklets)
   - [Convert NIS to Dollar / Euro](#convert-nis-to-dollar--euro)
-  - [Adds the image src to the image title](#adds-the-image-src-to-the-image-title)
+  - [Adds the image info to the image title](#adds-the-image-info-to-the-image-title)
   - [Google Timer](#google-timer)
   - [Google Timer - Title](#google-timer---title)
   - [Decode URL](#decode-url)
@@ -27,11 +27,11 @@ Features:
 
 ---
 
-## Adds the image src to the image title
+## Adds the image info to the image title
 
-> [addSrcToImgTitle.js](./addSrcToImgTitle.js)
+> [addInfoToImgTitle.js](./addInfoToImgTitle.js)
 
-For any image in the current page adding the src URL to its title for convenient dev works.
+For any image in the current page adding its info to the title for more convenient dev works.
 
 ---
 
