@@ -33,6 +33,12 @@ Features:
 
 For any image in the current page adding its info to the title for more convenient dev works.
 
+- src .
+- width .
+- height .
+- naturalWidth .
+- naturalHeight .
+
 ---
 
 ## Google Timer
