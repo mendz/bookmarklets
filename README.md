@@ -6,6 +6,7 @@
   - [Google Timer](#google-timer)
   - [Google Timer - Title](#google-timer---title)
   - [Decode URL](#decode-url)
+  - [Facebook Mobile Video](#facebook-mobile-video)
 
 ## Convert NIS to Dollar / Euro
 
@@ -64,3 +65,11 @@ Update the tab title with the current time.
 
 - Open a dialog to insert a URL to decode (by default is the current tab URL).
 - Copied the decoded URL to the _clipboard_.
+
+---
+
+## Facebook Mobile Video
+
+> [facebookMobileVideo.js](./facebookMobileVideo.js)
+
+Change the current desktop facebook video to mobile link.
